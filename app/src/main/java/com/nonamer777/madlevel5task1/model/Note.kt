@@ -19,5 +19,5 @@ data class Note(
 
     @PrimaryKey
     @ColumnInfo(name = "id")
-    private val id: Long? = null
+    val id: Long? = null
 )
