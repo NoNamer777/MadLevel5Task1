@@ -7,4 +7,6 @@
     <string name="input_placeholder_note_title">Title</string>
     <string name="input_placeholder_note_body">Note</string>
     <string name="btn_label_save_note">save</string>
+    <string name="txt_note_title" />
+    <string name="txt_note_body" />
 </resources>
